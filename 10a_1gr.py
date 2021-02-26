@@ -22,4 +22,4 @@
 
 12 Ðvacka Marija
 
-print(7+27)
+print(7**3+27/3)
